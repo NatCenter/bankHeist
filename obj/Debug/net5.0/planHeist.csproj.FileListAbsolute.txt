@@ -1,0 +1,16 @@
+C:\Users\Nathan\workspace\csharp\planHeist\bin\Debug\net5.0\planHeist.exe
+C:\Users\Nathan\workspace\csharp\planHeist\bin\Debug\net5.0\planHeist.deps.json
+C:\Users\Nathan\workspace\csharp\planHeist\bin\Debug\net5.0\planHeist.runtimeconfig.json
+C:\Users\Nathan\workspace\csharp\planHeist\bin\Debug\net5.0\planHeist.runtimeconfig.dev.json
+C:\Users\Nathan\workspace\csharp\planHeist\bin\Debug\net5.0\planHeist.dll
+C:\Users\Nathan\workspace\csharp\planHeist\bin\Debug\net5.0\ref\planHeist.dll
+C:\Users\Nathan\workspace\csharp\planHeist\bin\Debug\net5.0\planHeist.pdb
+C:\Users\Nathan\workspace\csharp\planHeist\obj\Debug\net5.0\planHeist.csproj.AssemblyReference.cache
+C:\Users\Nathan\workspace\csharp\planHeist\obj\Debug\net5.0\planHeist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\workspace\csharp\planHeist\obj\Debug\net5.0\planHeist.AssemblyInfoInputs.cache
+C:\Users\Nathan\workspace\csharp\planHeist\obj\Debug\net5.0\planHeist.AssemblyInfo.cs
+C:\Users\Nathan\workspace\csharp\planHeist\obj\Debug\net5.0\planHeist.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\workspace\csharp\planHeist\obj\Debug\net5.0\planHeist.dll
+C:\Users\Nathan\workspace\csharp\planHeist\obj\Debug\net5.0\ref\planHeist.dll
+C:\Users\Nathan\workspace\csharp\planHeist\obj\Debug\net5.0\planHeist.pdb
+C:\Users\Nathan\workspace\csharp\planHeist\obj\Debug\net5.0\planHeist.genruntimeconfig.cache
